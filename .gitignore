@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+*~
+*.swp
+
+# Written by Claude Code each time it loads the mod.
+.claude-plugin/types/
+
+.claude/settings.local.json
+node_modules/

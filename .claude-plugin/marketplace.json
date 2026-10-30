@@ -1,0 +1,14 @@
+{
+  "name": "control-station",
+  "description": "Claude Code mods by Wendell Terence Dador.",
+  "owner": {
+    "name": "Wendell Terence Dador"
+  },
+  "plugins": [
+    {
+      "name": "control-station",
+      "source": "./",
+      "description": "Sci-fi control deck for Claude Code: an animated banner above the prompt and a side panel with scenes, gauges, today's counts, project and quick actions."
+    }
+  ]
+}

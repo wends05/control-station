@@ -1,0 +1,12 @@
+{
+  "name": "control-station",
+  "version": "0.1.0",
+  "description": "Sci-fi control deck for Claude Code: an animated banner above the prompt and a side panel with scenes, gauges, today's counts, project and quick actions.",
+  "author": {
+    "name": "Wendell Terence Dador"
+  },
+  "homepage": "https://github.com/wends05/control-station",
+  "repository": "https://github.com/wends05/control-station",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
